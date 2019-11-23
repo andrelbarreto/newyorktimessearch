@@ -1,0 +1,32 @@
+{
+  "name": "newyorktimes",
+  "version": "0.0.2",
+  "description": "A Node.js wrapper for New York Times' API",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+ 
+  
+  "keywords": [
+    "New",
+    "York",
+    "Times",
+    "newyorktimes",
+    "news"
+  ],
+  "author": "Andre Barreto",
+  "license": "NU",
+  "bugs": {
+    "url": "https://github.com/andrelbarreto/newyorktimessearch"
+  },
+  "homepage": "https://github.com/andrelbarreto/newyorktimessearch",
+  "devDependencies": {
+    "assert": "^1.1.2",
+    "node-env-file": "^0.1.3"
+  },
+  "dependencies": {
+    "request": "^2.42.0"
+  }
+}
+
